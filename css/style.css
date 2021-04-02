@@ -1,0 +1,32 @@
+textarea {
+    margin-bottom: 10px;
+    font-size: 13px;
+    height: 100px;
+    width: 80%;
+}
+
+h3, h4 {
+    font-weight: unset;
+
+}
+
+h4 div{
+    position: absolute;
+    margin: 3px 0 0 20px;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    content: none;
+}
+
+h4 p{
+    margin: 0 0 0 40px;
+}
+
+#blue {
+    background-color: blue;
+}
+
+#red {
+    background-color: red;
+}
